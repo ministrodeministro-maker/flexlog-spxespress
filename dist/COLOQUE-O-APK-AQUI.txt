@@ -1,0 +1,5 @@
+Coloque o APK nesta pasta com o nome exato: flexlog.apk
+
+Caminho final: dist/flexlog.apk
+
+O botão do site será ativado quando esse arquivo existir na publicação.
