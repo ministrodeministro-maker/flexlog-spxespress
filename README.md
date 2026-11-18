@@ -1,7 +1,12 @@
 # FlexLog SPX Express
 
-Repositório destinado ao site FlexLog SPX Express.
+Site da FlexLog SPX Express publicado pela Vercel.
 
-Para publicar o pacote `flexlog-spxespress-corrigido.zip`, extraia o ZIP e envie a pasta `dist/` e o arquivo `vercel.json` para a raiz deste repositório. Na Vercel, configure Output Directory como `dist`.
+## Estrutura
+- `dist/index.html`
+- `dist/style.css`
+- `dist/app.js`
+- `dist/flexlog.apk` (quando o APK oficial for enviado)
+- `vercel.json`
 
-O botão de instalação só deve ficar ativo quando `dist/flexlog.apk` contiver um APK real.
+O botão **Baixar** é ativado automaticamente quando `dist/flexlog.apk` existir.
